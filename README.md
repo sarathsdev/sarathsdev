@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarath S</h1>
 
 <h3 align="center">A passionate Flutter & Web developer from India</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sarathsdev&label=Profile%0viewscolor=0e75b6&style=flat" alt="sarathsdev"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sarathsdev&label=Profile%20viewscolor=0e75b6&style=flat" alt="sarathsdev"/></p>
 
 - 🌱 I’m currently learning **MERN framework ,Golang**
 
