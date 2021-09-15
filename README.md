@@ -2,10 +2,6 @@
 
 <h3 align="center">A passionate Flutter & Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathsdev&label=Profile%20views&color=0e75b6&style=flat" alt="sarathsdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathsdev" alt="sarathsdev" /></a> </p>
-
 - 🌱 I’m currently learning **MERN framework ,Golang**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sarathsdev](https://www.github.com/sarathsdev)
