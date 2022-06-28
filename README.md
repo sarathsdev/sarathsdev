@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Flutter & Web developer from India</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sarathsdev&label=Profile%20 Views &style=flat" alt="sarathsdev"/></p>
 
-- 🌱 I’m currently learning **MERN framework ,Golang**
+- 🌱 I’m currently learning **MERN framework & Golang**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sarathsdev](https://www.github.com/sarathsdev)
 
-- 💬 Ask me about **flutter ,firebase, react , node , mongodb**
+- 💬 Ask me about **flutter ,firebase, react , node & mongodb**
 
 - 📫 How to reach me **sarathsivan099@gmail.com**
 
