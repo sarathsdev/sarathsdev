@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sarathsdev](https://www.github.com/sarathsdev)
 
-- 💬 Ask me about **flutter , middleware & devops
+- 💬 Ask me about **flutter , middleware & devops**
 
 - 📫 How to reach me **sarathsivan099@gmail.com**
 
